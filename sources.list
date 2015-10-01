@@ -1,0 +1,19 @@
+deb http://old-releases.ubuntu.com/ubuntu hardy main
+deb http://old-releases.ubuntu.com/ubuntu hardy multiverse
+deb http://old-releases.ubuntu.com/ubuntu hardy restricted
+deb http://old-releases.ubuntu.com/ubuntu hardy universe
+
+deb http://old-releases.ubuntu.com/ubuntu hardy-backports main
+deb http://old-releases.ubuntu.com/ubuntu hardy-backports multiverse
+deb http://old-releases.ubuntu.com/ubuntu hardy-backports restricted
+deb http://old-releases.ubuntu.com/ubuntu hardy-backports universe
+
+deb http://old-releases.ubuntu.com/ubuntu hardy-security main
+deb http://old-releases.ubuntu.com/ubuntu hardy-security multiverse
+deb http://old-releases.ubuntu.com/ubuntu hardy-security restricted
+deb http://old-releases.ubuntu.com/ubuntu hardy-security universe
+
+deb http://old-releases.ubuntu.com/ubuntu hardy-updates main
+deb http://old-releases.ubuntu.com/ubuntu hardy-updates multiverse
+deb http://old-releases.ubuntu.com/ubuntu hardy-updates restricted
+deb http://old-releases.ubuntu.com/ubuntu hardy-updates universe
