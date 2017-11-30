@@ -5,6 +5,8 @@ COPY sources.list /etc/apt/sources.list
 
 MAINTAINER Dennis Sänger <mail@dennis.io>
 
+ENV DEBIAN_FRONTEND=noninteractive
+
 RUN echo '#!/bin/sh' > /usr/sbin/policy-rc.d \
 	&& echo 'exit 101' >> /usr/sbin/policy-rc.d \
 	&& chmod +x /usr/sbin/policy-rc.d \
